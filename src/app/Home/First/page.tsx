@@ -6,7 +6,7 @@ const Intro = () => {
   return (
     <section className="relative flex items-center justify-center min-h-screen bg-gray-100">
       <div className="container mx-auto px-4 py-16 flex flex-col md:flex-row items-center justify-between">
-        <div className="text-center md:text-left md:w-1/2 ml-30">
+        <div className="text-center md:text-left md:w-1/2 ml-16">
           <p className="text-5xl sm:text-6xl md:text-6xl font-bold mb-6">
             Pay Your Bills <br></br> with Ease.
           </p>
